@@ -1,0 +1,14 @@
+c:\Users\Dell\Desktop\Event-Mangment-System\bin\Debug\net8.0\Event-Mangment-System.exe
+C:\Users\Dell\Desktop\Event-Mangment-System\bin\Debug\net8.0\Event-Mangment-System.deps.json
+C:\Users\Dell\Desktop\Event-Mangment-System\bin\Debug\net8.0\Event-Mangment-System.runtimeconfig.json
+c:\Users\Dell\Desktop\Event-Mangment-System\bin\Debug\net8.0\Event-Mangment-System.dll
+c:\Users\Dell\Desktop\Event-Mangment-System\bin\Debug\net8.0\Event-Mangment-System.pdb
+c:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\Event-Mangment-System.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\Event-Mangment-System.AssemblyInfoInputs.cache
+c:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\Event-Mangment-System.AssemblyInfo.cs
+c:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\Event-Mangment-System.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\Event-Mangment-System.dll
+c:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\refint\Event-Mangment-System.dll
+c:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\Event-Mangment-System.pdb
+C:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\Event-Mangment-System.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Event-Mangment-System\obj\Debug\net8.0\ref\Event-Mangment-System.dll
